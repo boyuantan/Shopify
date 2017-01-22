@@ -1,4 +1,4 @@
 # Shopify
 Part of internship application.
 
-Answer: $15447.72
+Answer: $15449.72
